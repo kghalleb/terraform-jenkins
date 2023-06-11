@@ -1,0 +1,9 @@
+datasources:
+  datasources.yaml:
+    apiVersion: 1
+    datasources:
+    - name: loki
+      type: loki
+      url: http://loki-server.loki.svc.cluster.local
+      access: proxy
+      isDefault: true

@@ -1,0 +1,6 @@
+cluster_endpoint = "https://53583ECFC0FF8B4DDE871D1E3314FA0B.gr7.us-east-1.eks.amazonaws.com"
+cluster_name = "education-eks-uTu0eRI1"
+cluster_security_group_id = "sg-0fc03ce5d7b90a3b6"
+region = "us-east-1"
+
+aws eks --region us-east-1 update-kubeconfig     --name education-eks-uTu0eRI1

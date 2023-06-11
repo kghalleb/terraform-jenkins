@@ -1,0 +1,4 @@
+cluster_endpoint = "https://12FEDB39BB3F0B1CD034DCFC6ACC1A02.gr7.us-east-1.eks.amazonaws.com"
+cluster_name = "gaas-eks-X3eLSyKp"
+cluster_security_group_id = "sg-0214bc6928f54e6da"
+region = "us-east-1"
